@@ -1,0 +1,1 @@
+CONNECTION_STRING = "postgresql://neondb_owner:npg_7gTj6wozXMAm@ep-tight-waterfall-a882ef8l-pooler.eastus2.azure.neon.tech/neondb?sslmode=require"
