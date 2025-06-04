@@ -6,9 +6,8 @@ import datetime
 
 class FakeDataSeeder:
     IT_POSITIONS = [
-        "Software Engineer", "DevOps Engineer", "Data Scientist", "System Administrator",
-        "Network Engineer", "Cloud Architect", "Security Analyst", "Frontend Developer",
-        "Backend Developer", "Full Stack Developer", "QA Engineer", "IT Support Specialist"
+         "DevOps Engineer", "Data Scientist","Frontend Developer",
+        "Backend Developer", "QA Engineer"
     ]
 
     DEPARTMENT_NAMES = [
